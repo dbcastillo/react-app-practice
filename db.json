@@ -1,0 +1,36 @@
+{
+  "drinks": [
+    {
+      "id": 1,
+      "user": "Mike",
+      "beverage": "Margarita",
+      "mood": "So-so",
+      "description": "Ruby is fun and I'm content.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/wpxpvu1439905379.jpg"
+    },
+    {
+      "id": 2,
+      "user": "Frank",
+      "beverage": "Blue Margarita",
+      "mood": "Content",
+      "description": "I like it here so far.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/qtvvyq1439905913.jpg"
+    },
+    {
+      "id": 3,
+      "user": "Clark",
+      "beverage": "Tommy's Margarita",
+      "mood": "Exhausted",
+      "description": "Soooooo much coding.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/loezxn1504373874.jpg"
+    },
+    {
+      "id": 4,
+      "user": "Fark",
+      "beverage": "Whitcap Margarita",
+      "mood": "Ecstatic",
+      "description": "I wanna code every minute and every hour of the day.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/srpxxp1441209622.jpg"
+    }
+  ]
+}
